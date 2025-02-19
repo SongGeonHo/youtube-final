@@ -4,3 +4,8 @@
 
 [context.production.environment]
   NODE_VERSION = "20"
+
+[[headers]]
+for = "/*"
+  [headers.values]
+  Content-Security-Policy = "frame-src 'self' https://www.youtube.com"
