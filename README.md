@@ -42,7 +42,8 @@
 
 **참고 링크**
 
-- **GitHub**: [https://(링크는 밖으로 노출)]
-- **Portfolio**: [https://(링크는 밖으로 노출)]
-- **Blog**: [https://(링크는 밖으로 노출)]
+- **GitHub**: [youtube  프로젝트](https://github.com/SongGeonHo/youtube-final)
+- **TailWind**: [TailWind](https://tailwindcss.com/)
+- **Tanstack**: [TankStack](https://tanstack.com/start/latest)
+- **Google**: [Google API](https://console.cloud.google.com/apis/dashboard?pli=1&inv=1&invt=Abp_KQ&project=august-snowfall-446305-j2)
 </aside>
