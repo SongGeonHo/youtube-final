@@ -5,7 +5,3 @@
 [context.production.environment]
   NODE_VERSION = "20"
 
-[[headers]]
-for = "/*"
-  [headers.values]
-  Content-Security-Policy = "default-src 'self'; script-src 'self' https://www.youtube.com; frame-src 'self' https://www.youtube.com https://youtubeminiproject.netlify.app"
