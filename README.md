@@ -2,6 +2,8 @@
 
 ### 유투브 프로젝트 
 
+배포 : https://youtubeminiproject.netlify.app/
+
 ![스크린샷 2025-02-19 154245](https://github.com/user-attachments/assets/875b6cef-bc3a-4231-bd21-27256d7d8bc0)
 ![스크린샷 2025-02-19 154309](https://github.com/user-attachments/assets/b3c0f03d-8c3b-40e2-b830-4715076a417e)
 
